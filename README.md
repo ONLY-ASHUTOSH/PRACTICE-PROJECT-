@@ -1,3 +1,3 @@
 # PRACTICE-PROJECT-
 Practicing git and github
-By Ashutosh
+By Ashutosh Kumar
